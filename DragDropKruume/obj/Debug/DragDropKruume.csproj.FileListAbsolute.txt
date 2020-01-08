@@ -1,0 +1,10 @@
+C:\Users\opilane\source\repos\DragDropKruume\DragDropKruume\bin\Debug\DragDropKruume.exe.config
+C:\Users\opilane\source\repos\DragDropKruume\DragDropKruume\bin\Debug\DragDropKruume.exe
+C:\Users\opilane\source\repos\DragDropKruume\DragDropKruume\bin\Debug\DragDropKruume.pdb
+C:\Users\opilane\source\repos\DragDropKruume\DragDropKruume\obj\Debug\DragDropKruume.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\DragDropKruume\DragDropKruume\obj\Debug\DragDropKruume.Form1.resources
+C:\Users\opilane\source\repos\DragDropKruume\DragDropKruume\obj\Debug\DragDropKruume.Properties.Resources.resources
+C:\Users\opilane\source\repos\DragDropKruume\DragDropKruume\obj\Debug\DragDropKruume.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\DragDropKruume\DragDropKruume\obj\Debug\DragDropKruume.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\DragDropKruume\DragDropKruume\obj\Debug\DragDropKruume.exe
+C:\Users\opilane\source\repos\DragDropKruume\DragDropKruume\obj\Debug\DragDropKruume.pdb
